@@ -1,1 +1,2 @@
-Materi Kuliah Minggu 1
+## Materi Week 1
+Materi Minggu Pertama
