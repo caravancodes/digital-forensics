@@ -1,0 +1,22 @@
+1. Presentasi
+https://docs.google.com/presentation/d/1yBh25Efaw2J0XFElOXw7j0HJAt7SuJc7NQ1F_1E7IrI/edit?usp=sharing
+
+2. Drive Data (Pada File ini diupload laporan dan presentasi yang tidak di kompresi)
+https://drive.google.com/drive/folders/16MsemAoYtVwBHoaT1uonHRO2qNhCftgl?usp=sharing 
+
+3. Dataset 
+https://drive.google.com/drive/folders/1IeYsuitIXPUrJ16LM2Nwx9LaA2UtSjNi?usp=sharing
+
+4. Repository Kode
+https://github.com/RaihanHeggi/tubes_duplicate_region.git (Dimohon membaca
+readme karena ada beberapa branch dan versi dari sistem yang dibangun)
+
+
+Anggota Kelompok 3 
+
+1301180379 - Adabi Raihan Muhammad
+1301198497 -  Muhammad Faisal Amir
+1301174524 -  Muhammad Irfan Aldi
+1301184219 - Sya Raihan Heggi
+1301184005 - Gia Nusantara
+
